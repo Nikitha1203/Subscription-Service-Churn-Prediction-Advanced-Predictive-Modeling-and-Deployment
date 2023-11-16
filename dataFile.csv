@@ -1,0 +1,1001 @@
+CustomerID,Age,Job,MaritalStatus,Education,AnnualIncome,TransactionHistory,PaymentPatterns,ServiceUsageFrequency,ServiceUsageDuration,MostUsedFeatures,SupportInteractions,FeedbackScore,Tenure,Churn
+1,64,"Investment banker, corporate",Single,PhD,79846,14,2,10,29,B,1,2,4,0
+2,31,Ophthalmologist,Married,Master,43022,1,4,4,17,A,1,5,10,0
+3,36,Corporate investment banker,Single,Bachelor,50312,14,2,6,40,C,4,2,8,1
+4,20,"Engineer, civil (consulting)",Single,PhD,70456,2,3,8,37,A,5,2,6,0
+5,22,Meteorologist,Single,PhD,91635,16,4,3,49,A,2,1,7,0
+6,58,"Journalist, newspaper",Single,PhD,92117,17,1,5,13,B,3,4,8,0
+7,63,"Secretary, company",Single,High School,116424,18,1,8,43,A,1,2,9,0
+8,29,Lawyer,Married,High School,55445,8,2,8,6,B,4,1,1,0
+9,51,Brewing technologist,Married,Bachelor,95420,11,1,10,33,B,1,2,10,1
+10,50,Clinical research associate,Single,Bachelor,46751,12,2,7,11,C,2,2,4,0
+11,52,Chartered loss adjuster,Single,Master,30637,2,4,6,9,B,2,5,8,0
+12,58,"Administrator, arts",Single,Bachelor,61177,20,3,1,38,C,2,1,5,0
+13,41,General practice doctor,Single,High School,38317,16,4,3,46,B,4,2,6,0
+14,30,Manufacturing systems engineer,Single,PhD,38582,11,2,1,36,B,5,5,1,0
+15,48,"Production assistant, television",Married,Bachelor,64886,11,2,3,24,B,5,1,9,0
+16,38,Orthoptist,Single,PhD,105834,19,3,4,21,A,4,2,7,0
+17,45,"Scientist, biomedical",Single,Bachelor,110638,6,2,6,16,A,2,4,3,1
+18,30,Minerals surveyor,Married,Bachelor,98914,11,2,9,21,C,1,4,5,0
+19,64,Print production planner,Single,PhD,113034,18,4,2,5,B,4,5,8,1
+20,54,Medical sales representative,Married,Bachelor,113441,10,3,5,9,B,4,3,2,1
+21,52,Health visitor,Married,Master,47703,16,3,5,28,B,4,3,3,0
+22,36,Camera operator,Single,Master,60077,4,2,6,43,C,3,2,6,0
+23,45,"Surveyor, insurance",Married,PhD,93151,17,1,5,21,A,3,2,1,1
+24,20,Historic buildings inspector/conservation officer,Single,Bachelor,62472,1,4,8,40,B,5,1,5,1
+25,40,Dance movement psychotherapist,Married,High School,31918,14,1,1,34,B,3,3,5,1
+26,55,"Scientist, research (medical)",Single,Bachelor,103441,11,2,7,34,A,1,2,4,0
+27,39,Textile designer,Single,High School,60287,19,4,3,13,A,5,4,9,0
+28,65,Theatre manager,Single,PhD,114209,12,2,2,39,C,4,4,6,1
+29,62,Airline pilot,Single,PhD,86188,11,1,4,13,A,5,3,3,0
+30,53,Insurance underwriter,Married,PhD,109251,19,2,6,17,C,5,1,7,0
+31,50,Environmental education officer,Married,PhD,81991,19,2,4,20,C,5,1,9,1
+32,54,"Programmer, systems",Married,High School,59260,1,3,9,38,B,5,1,6,0
+33,53,Investment analyst,Single,PhD,44517,14,2,1,21,C,3,3,9,1
+34,53,"Psychotherapist, dance movement",Single,High School,79440,2,4,5,45,A,2,2,10,1
+35,58,Outdoor activities/education manager,Single,High School,111012,10,3,5,23,C,5,5,6,1
+36,34,Ecologist,Married,Master,94403,20,3,3,24,A,4,5,5,0
+37,42,Nature conservation officer,Single,High School,86539,15,2,10,29,A,1,4,4,1
+38,32,Network engineer,Single,Master,49762,7,4,5,42,C,5,2,1,0
+39,45,Photographer,Married,Bachelor,73280,19,1,9,3,A,5,5,5,1
+40,38,Risk manager,Single,Master,115881,20,2,6,37,C,4,5,10,0
+41,59,Environmental education officer,Single,Bachelor,88654,2,3,1,22,B,4,3,1,1
+42,32,Biomedical scientist,Married,High School,89069,19,2,7,9,B,4,2,7,1
+43,64,Research scientist (medical),Married,Bachelor,46760,1,4,5,3,C,2,4,8,0
+44,69,Secretary/administrator,Married,Bachelor,62912,15,1,3,44,B,4,5,5,0
+45,40,Colour technologist,Married,Bachelor,58388,5,4,7,12,A,5,5,6,0
+46,32,Television camera operator,Single,PhD,40106,12,2,6,5,B,2,5,5,0
+47,67,Information officer,Married,PhD,95624,14,1,7,21,C,2,3,8,1
+48,42,Leisure centre manager,Married,Master,84762,1,4,8,10,C,5,1,3,0
+49,43,Advertising account planner,Single,Master,76274,17,3,7,12,C,2,2,6,0
+50,24,Dentist,Single,Bachelor,79812,18,2,8,2,A,3,3,5,0
+51,33,Communications engineer,Single,PhD,56110,20,3,1,34,C,5,2,8,1
+52,43,"Engineer, land",Married,High School,53246,5,2,6,2,C,1,3,6,1
+53,62,"Therapist, drama",Married,High School,80218,13,4,3,22,C,3,5,8,1
+54,61,Physiotherapist,Single,Master,67781,6,2,5,33,A,1,1,4,1
+55,39,Professor Emeritus,Married,PhD,86635,8,3,3,10,C,1,4,8,0
+56,42,Water engineer,Married,Master,88349,7,3,2,42,A,1,4,10,1
+57,32,Ambulance person,Married,Master,72447,10,4,4,23,B,4,1,10,1
+58,40,"Copywriter, advertising",Married,PhD,30617,18,4,3,6,A,4,3,7,0
+59,45,Chief Operating Officer,Married,Bachelor,32453,8,1,9,17,C,3,5,7,1
+60,33,Materials engineer,Married,Master,65632,19,1,4,32,A,2,2,9,0
+61,23,"Teacher, adult education",Married,PhD,43296,15,3,10,28,A,2,2,8,0
+62,30,Petroleum engineer,Married,PhD,40066,16,4,4,29,C,1,3,6,0
+63,45,Holiday representative,Married,Bachelor,117704,5,1,1,32,B,1,1,6,0
+64,53,Operational researcher,Married,Master,109785,2,4,9,15,C,5,4,8,1
+65,64,"Administrator, Civil Service",Single,High School,66913,5,4,8,36,B,3,2,3,1
+66,68,Associate Professor,Married,PhD,93987,8,1,3,6,A,1,5,5,1
+67,28,Warden/ranger,Single,PhD,88379,8,4,4,15,A,5,4,3,0
+68,46,Race relations officer,Married,Master,90117,11,3,10,44,C,5,3,2,1
+69,38,Cytogeneticist,Single,PhD,65749,7,3,10,9,B,3,4,8,0
+70,59,Water quality scientist,Married,PhD,36506,3,4,7,20,B,2,3,3,0
+71,47,Company secretary,Married,Bachelor,103714,2,2,4,18,B,1,1,7,0
+72,39,Professor Emeritus,Married,PhD,57444,15,1,10,40,B,3,3,8,1
+73,69,"Psychologist, counselling",Single,Bachelor,44976,10,2,4,46,B,5,1,7,1
+74,54,Artist,Single,PhD,84919,5,2,7,33,C,1,1,9,1
+75,48,Outdoor activities/education manager,Single,Bachelor,33838,1,3,4,34,B,5,4,5,0
+76,57,"Administrator, arts",Single,Master,90647,4,2,2,26,C,3,1,5,0
+77,65,"Horticulturist, commercial",Married,Bachelor,98596,5,1,10,40,B,2,1,9,1
+78,34,Interpreter,Married,High School,84266,16,2,9,29,A,1,1,4,0
+79,28,Occupational hygienist,Married,Master,30488,7,4,6,11,A,2,3,1,1
+80,48,Clinical biochemist,Single,PhD,30606,3,1,1,2,C,3,1,7,1
+81,63,English as a second language teacher,Single,Bachelor,107891,18,4,9,31,C,3,4,5,1
+82,63,Data processing manager,Single,Master,103624,4,1,2,31,C,4,1,9,0
+83,69,Mental health nurse,Married,Bachelor,47720,7,2,6,13,C,2,4,3,1
+84,60,Occupational therapist,Married,Bachelor,34593,16,3,1,3,B,4,3,4,0
+85,53,Curator,Single,High School,56143,14,2,2,29,A,2,3,2,0
+86,36,Biomedical scientist,Single,PhD,68523,13,2,5,13,B,1,4,5,1
+87,58,Archaeologist,Single,High School,102348,13,3,5,50,B,4,3,7,1
+88,44,Purchasing manager,Married,Bachelor,63949,14,3,5,15,C,3,5,9,1
+89,28,Quantity surveyor,Married,Bachelor,84436,13,3,3,42,B,3,3,5,1
+90,58,Oncologist,Single,Master,119942,12,4,10,31,B,3,3,2,0
+91,61,"Journalist, broadcasting",Single,Bachelor,55157,16,4,6,43,B,2,3,6,0
+92,20,Fast food restaurant manager,Single,PhD,49498,4,4,1,38,B,4,2,6,1
+93,60,Health visitor,Married,PhD,102190,11,4,3,33,B,2,2,8,0
+94,34,"Pharmacist, community",Married,Master,115971,10,1,10,25,A,3,5,2,0
+95,50,Fish farm manager,Single,PhD,80616,3,3,8,20,A,1,3,3,0
+96,34,Secondary school teacher,Single,PhD,60037,11,3,3,50,B,3,5,4,0
+97,60,"Sales professional, IT",Single,PhD,70679,17,2,7,45,B,5,4,5,0
+98,23,Counsellor,Single,Bachelor,55733,14,3,2,46,B,4,1,8,1
+99,44,Amenity horticulturist,Single,PhD,90603,4,2,2,39,B,4,3,2,0
+100,28,Early years teacher,Married,Bachelor,114871,11,2,3,43,B,5,4,5,1
+101,70,Corporate investment banker,Single,High School,58000,5,4,7,15,C,3,4,10,1
+102,56,Museum/gallery curator,Married,High School,91001,10,3,4,41,A,2,3,8,1
+103,61,Sales promotion account executive,Married,Bachelor,90477,8,4,2,26,A,3,4,9,1
+104,50,Warden/ranger,Married,High School,42445,5,1,3,36,B,1,3,9,0
+105,24,Sports therapist,Married,Bachelor,84695,19,1,10,21,C,5,3,7,0
+106,39,"Scientist, water quality",Single,PhD,92731,13,1,6,5,A,3,1,10,1
+107,60,Agricultural engineer,Married,High School,96925,14,3,1,23,C,3,2,5,1
+108,38,Passenger transport manager,Married,Bachelor,116851,17,3,2,46,B,2,3,3,0
+109,18,"Scientist, physiological",Married,High School,56743,20,4,6,44,B,2,4,10,1
+110,39,Waste management officer,Married,High School,68331,3,1,9,50,C,3,2,4,1
+111,20,Naval architect,Single,High School,110292,13,3,4,28,C,3,5,4,0
+112,45,Pharmacologist,Single,Master,42276,19,1,5,40,A,1,2,4,1
+113,20,Associate Professor,Single,Master,57366,17,2,10,48,A,3,2,7,0
+114,46,Accounting technician,Single,High School,79606,19,4,6,5,B,3,1,7,1
+115,18,"Administrator, education",Married,PhD,55152,16,1,6,8,B,1,3,2,0
+116,42,Cartographer,Married,High School,32592,19,3,4,26,C,2,1,6,0
+117,24,Catering manager,Single,PhD,107575,14,3,9,49,B,4,3,6,1
+118,60,Medical laboratory scientific officer,Single,Master,31875,17,3,9,27,A,4,4,5,0
+119,66,Ambulance person,Married,Master,52341,10,3,3,29,B,5,3,4,0
+120,68,Cabin crew,Married,PhD,94511,13,3,10,24,A,3,2,2,1
+121,27,Chiropractor,Married,Master,54156,2,2,3,43,B,4,1,7,0
+122,44,Customer service manager,Married,Bachelor,119946,20,1,10,42,A,1,3,5,0
+123,54,Counselling psychologist,Married,PhD,116074,4,4,7,22,C,2,1,9,1
+124,32,"Producer, radio",Single,Bachelor,71154,7,4,3,13,B,3,2,1,1
+125,22,Tax adviser,Married,Bachelor,74213,15,1,4,12,B,5,1,5,0
+126,45,"Producer, radio",Single,Bachelor,77275,1,1,3,24,C,5,4,3,0
+127,57,Arts development officer,Single,Bachelor,45710,16,1,1,17,C,4,3,2,1
+128,49,Wellsite geologist,Married,Master,102282,8,4,3,43,A,1,2,10,1
+129,59,Armed forces logistics/support/administrative officer,Married,High School,60757,8,4,5,23,B,5,3,10,0
+130,36,Art gallery manager,Married,High School,96720,11,1,3,17,B,3,2,4,0
+131,57,"Clinical scientist, histocompatibility and immunogenetics",Single,Master,102469,10,2,2,35,B,1,4,9,0
+132,39,"Research officer, government",Single,PhD,91841,15,3,9,18,C,1,1,8,0
+133,18,Chartered loss adjuster,Married,High School,113786,2,1,7,43,A,2,3,4,0
+134,45,"Designer, textile",Married,Bachelor,40606,5,4,9,25,C,4,1,10,1
+135,69,Contracting civil engineer,Married,Master,101181,13,1,10,27,B,5,2,6,0
+136,31,"Designer, textile",Married,High School,114627,10,2,8,13,C,2,1,2,0
+137,62,Customer service manager,Married,Bachelor,100026,13,3,9,16,A,2,4,10,0
+138,54,Risk manager,Single,PhD,65601,11,2,3,4,B,4,5,9,1
+139,38,Aid worker,Married,Master,113583,11,4,6,13,C,4,4,6,0
+140,20,Building services engineer,Married,Bachelor,115680,20,3,10,18,C,5,5,6,1
+141,27,Hydrologist,Married,Bachelor,39237,4,1,8,48,C,3,3,5,1
+142,56,"Engineer, site",Single,PhD,119155,16,1,6,9,A,1,3,3,0
+143,24,Recruitment consultant,Married,Bachelor,86071,20,3,8,39,B,1,1,9,0
+144,26,Civil Service fast streamer,Single,Master,48008,9,1,1,49,B,4,4,7,1
+145,30,Mechanical engineer,Married,Master,87482,18,4,9,19,A,5,5,6,1
+146,34,Careers information officer,Single,Master,93728,11,2,6,47,B,3,4,10,1
+147,42,Operational researcher,Single,PhD,37251,15,4,5,48,C,3,5,5,1
+148,54,Forensic scientist,Married,Bachelor,59130,2,3,5,42,B,1,3,3,1
+149,46,Human resources officer,Single,Master,84147,13,1,3,27,A,5,4,10,0
+150,49,Chartered management accountant,Married,High School,100324,18,2,8,19,B,2,3,1,0
+151,50,Microbiologist,Married,Master,64282,19,2,2,17,C,2,2,5,0
+152,35,Administrator,Married,Bachelor,74331,6,4,7,18,C,1,1,1,0
+153,63,Counsellor,Single,Bachelor,63886,18,1,9,11,A,5,4,5,1
+154,64,Psychiatrist,Single,Master,102144,16,1,10,26,A,1,4,3,0
+155,21,Television camera operator,Married,Bachelor,31567,10,4,6,30,A,4,4,1,0
+156,54,Airline pilot,Married,Master,33524,6,4,9,19,A,1,5,6,0
+157,59,Writer,Single,Bachelor,37310,7,2,6,25,B,1,3,10,0
+158,50,Secondary school teacher,Single,Bachelor,105200,18,2,7,7,A,3,4,9,0
+159,40,"Investment banker, operational",Married,Bachelor,49410,12,4,5,47,A,5,1,10,0
+160,27,"Conservation officer, historic buildings",Married,Bachelor,49035,19,3,4,27,B,1,3,10,0
+161,23,Visual merchandiser,Married,Master,78133,15,3,3,5,A,1,5,3,0
+162,40,Archaeologist,Single,Master,53802,19,2,2,1,A,3,3,9,0
+163,32,Insurance broker,Married,Bachelor,73492,9,2,10,26,C,4,4,5,1
+164,34,Counselling psychologist,Single,Bachelor,47959,13,2,10,27,B,2,5,4,0
+165,43,"Designer, industrial/product",Single,Bachelor,41075,7,4,7,19,B,1,2,3,0
+166,66,"Scientist, clinical (histocompatibility and immunogenetics)",Single,Master,45640,19,2,10,4,B,3,2,6,1
+167,51,Publishing copy,Single,Master,85809,20,1,4,15,B,5,1,10,1
+168,34,Public relations officer,Married,PhD,61719,13,2,3,25,B,2,5,1,0
+169,59,Broadcast engineer,Married,PhD,64862,19,3,8,16,C,1,5,8,0
+170,29,Architectural technologist,Married,PhD,48887,11,3,4,50,B,2,2,9,1
+171,70,Civil Service administrator,Married,Bachelor,58344,2,3,5,4,B,3,3,9,0
+172,65,Heritage manager,Married,Master,47144,14,2,5,13,C,4,2,1,1
+173,64,Higher education careers adviser,Single,Master,83561,1,1,3,44,C,1,4,9,1
+174,47,Contracting civil engineer,Married,PhD,118558,10,3,7,17,B,2,4,5,0
+175,56,"Accountant, chartered public finance",Married,Master,97439,11,2,5,7,C,2,4,9,0
+176,22,Dramatherapist,Single,Bachelor,47300,18,2,6,10,C,4,3,9,0
+177,19,Customer service manager,Single,PhD,55335,1,4,8,12,B,1,1,8,1
+178,47,Production manager,Married,Master,56331,8,2,2,18,B,4,4,6,1
+179,49,Art gallery manager,Single,High School,112150,11,2,2,23,C,2,5,6,1
+180,68,Environmental education officer,Married,Master,65243,9,4,5,39,A,1,4,4,1
+181,56,Textile designer,Married,Master,99614,15,2,3,27,A,2,2,5,1
+182,60,Make,Married,PhD,91260,5,2,5,12,A,4,2,9,0
+183,20,"Accountant, chartered management",Single,High School,60258,17,2,10,5,C,5,2,10,0
+184,54,Hospital pharmacist,Single,High School,78259,6,2,5,4,B,4,5,9,0
+185,70,Chartered certified accountant,Single,Master,41688,13,3,4,6,B,5,5,5,1
+186,23,Counselling psychologist,Married,Master,33712,4,3,1,32,C,2,5,8,1
+187,53,Accounting technician,Single,Master,46100,9,2,7,11,A,1,1,8,0
+188,18,"Psychotherapist, dance movement",Married,Bachelor,57718,10,2,7,24,B,2,4,10,0
+189,39,Financial adviser,Married,Bachelor,107021,2,2,3,22,B,3,4,5,0
+190,66,Public house manager,Single,High School,35820,17,4,4,36,B,5,3,2,0
+191,30,"Conservation officer, historic buildings",Single,Bachelor,55044,15,3,6,16,A,2,2,6,1
+192,19,Radiation protection practitioner,Single,Master,64012,6,1,4,25,B,4,2,1,0
+193,29,Web designer,Married,High School,46894,19,3,8,2,B,4,5,10,1
+194,21,"Surveyor, minerals",Married,Bachelor,55618,5,4,7,13,A,1,2,1,0
+195,67,Diagnostic radiographer,Married,PhD,117165,1,3,10,25,B,4,4,4,1
+196,40,Emergency planning/management officer,Single,PhD,82962,8,4,5,6,B,2,1,3,1
+197,56,Intelligence analyst,Single,Bachelor,76280,5,3,10,37,A,3,3,8,0
+198,39,IT consultant,Single,PhD,74112,20,4,9,42,A,2,2,7,0
+199,28,Financial manager,Single,Bachelor,90002,13,1,1,19,C,2,2,3,1
+200,55,Audiological scientist,Single,Master,98792,7,2,10,48,C,2,5,8,0
+201,59,Naval architect,Single,Master,39678,14,1,4,30,A,3,4,7,0
+202,27,"Engineer, agricultural",Married,Bachelor,64050,9,1,5,50,C,3,3,7,0
+203,19,"Designer, graphic",Single,PhD,112597,18,1,6,34,B,4,2,6,0
+204,66,"Psychotherapist, child",Married,PhD,81796,4,3,1,35,A,1,2,2,0
+205,49,Broadcast engineer,Married,Bachelor,109316,18,4,10,26,C,5,5,8,0
+206,55,"Production designer, theatre/television/film",Single,Master,115500,10,3,2,37,C,1,2,1,1
+207,38,Research scientist (physical sciences),Single,PhD,118151,9,1,2,32,A,3,5,7,1
+208,54,"Optician, dispensing",Married,High School,43217,2,2,5,27,A,4,2,4,1
+209,48,Environmental health practitioner,Married,PhD,87027,1,3,10,44,A,3,3,10,0
+210,59,"Scientist, research (life sciences)",Single,Master,49692,10,4,2,37,B,2,3,3,1
+211,62,"Engineer, manufacturing systems",Single,High School,81139,2,1,3,37,C,3,1,5,0
+212,39,"Civil engineer, contracting",Married,Master,116792,20,1,1,2,B,5,1,8,0
+213,35,Fisheries officer,Married,High School,50615,3,2,3,3,A,1,3,5,1
+214,54,Environmental health practitioner,Single,Master,101850,17,1,10,1,B,5,2,5,0
+215,27,Media planner,Single,Master,90605,16,3,8,37,B,2,2,7,1
+216,67,"Teacher, early years/pre",Married,Bachelor,110973,9,3,5,24,C,4,1,2,1
+217,53,"Loss adjuster, chartered",Married,Bachelor,42331,10,3,1,10,B,1,2,5,1
+218,61,Set designer,Single,Master,84056,7,2,2,34,C,1,1,4,1
+219,40,Conference centre manager,Married,High School,93419,7,4,5,34,C,3,5,6,1
+220,36,Music therapist,Married,High School,102495,19,3,9,14,C,1,3,5,1
+221,38,Police officer,Married,High School,30045,12,4,7,3,B,3,3,6,0
+222,66,Tour manager,Single,Master,48353,5,2,7,13,B,5,3,8,0
+223,23,Community pharmacist,Married,PhD,57665,16,4,2,3,A,4,2,6,1
+224,18,Multimedia specialist,Single,High School,40575,2,2,5,49,A,4,2,1,0
+225,35,Haematologist,Single,Master,119222,15,2,4,48,C,2,4,3,0
+226,20,Sports development officer,Single,Master,95013,19,3,2,44,A,2,2,1,0
+227,24,Naval architect,Married,Master,107547,15,3,9,20,B,3,2,7,1
+228,59,Video editor,Single,Master,79021,6,4,7,40,C,1,2,9,0
+229,29,Surgeon,Single,High School,67820,11,4,10,46,C,3,1,3,0
+230,25,Health promotion specialist,Single,Master,101290,20,3,9,30,C,1,4,8,1
+231,55,Research scientist (life sciences),Single,Master,58725,4,1,9,43,A,4,4,5,0
+232,51,Diplomatic Services operational officer,Married,High School,58150,4,1,10,6,C,4,5,7,0
+233,45,Museum education officer,Single,High School,86240,15,2,5,3,B,2,4,7,0
+234,47,"Administrator, arts",Married,High School,33053,3,1,2,46,B,2,3,3,0
+235,68,"Editor, film/video",Single,Master,115229,18,2,1,11,C,2,5,3,0
+236,42,"Accountant, chartered certified",Married,Bachelor,39273,15,4,1,27,B,4,4,1,0
+237,53,"Teacher, special educational needs",Married,Master,82618,20,1,8,4,A,5,5,4,0
+238,20,Building control surveyor,Married,Bachelor,90991,4,3,8,6,A,5,4,6,1
+239,55,Medical technical officer,Married,PhD,97759,3,1,10,5,A,3,4,8,0
+240,18,"Research officer, political party",Single,Master,112870,9,3,2,15,A,3,3,7,0
+241,60,Video editor,Single,Master,117994,7,4,9,36,B,3,4,8,0
+242,51,"Optician, dispensing",Married,Bachelor,65304,19,2,5,10,B,1,5,9,0
+243,27,Dispensing optician,Married,Bachelor,111609,3,1,7,14,A,3,1,3,1
+244,57,"Research officer, political party",Married,Bachelor,49242,3,3,1,40,C,5,1,1,1
+245,64,Chartered accountant,Single,Bachelor,30938,19,3,5,24,A,3,1,4,1
+246,52,Agricultural engineer,Single,Bachelor,65304,13,4,8,29,B,1,5,7,0
+247,55,Warden/ranger,Single,Master,75483,7,4,5,47,B,2,5,8,1
+248,21,"Radiographer, diagnostic",Married,PhD,83100,5,2,7,39,B,1,2,8,0
+249,60,Housing manager/officer,Married,PhD,81513,3,2,8,17,A,5,1,9,1
+250,46,Paediatric nurse,Single,High School,35246,4,1,10,19,A,2,2,3,1
+251,41,"Restaurant manager, fast food",Married,Bachelor,76231,11,1,10,4,A,2,5,9,0
+252,29,Waste management officer,Single,High School,86020,2,1,9,27,A,4,2,2,1
+253,67,"Therapist, speech and language",Single,Bachelor,109308,8,3,3,37,B,5,2,10,1
+254,43,Legal secretary,Single,High School,63172,4,4,9,28,C,5,2,5,1
+255,49,"Accountant, chartered public finance",Single,Master,76552,1,2,9,29,A,5,1,9,0
+256,24,Civil Service fast streamer,Married,High School,114228,7,2,3,29,A,2,4,8,0
+257,27,"Research officer, government",Single,High School,111128,2,4,1,28,C,1,4,3,1
+258,22,Horticultural consultant,Single,High School,89075,13,4,4,31,B,2,3,3,0
+259,52,Physiotherapist,Married,Bachelor,56944,12,4,9,6,B,4,5,8,0
+260,39,Magazine features editor,Married,PhD,95745,10,1,4,35,B,5,1,3,0
+261,29,Gaffer,Married,High School,58627,20,3,8,1,B,5,2,2,1
+262,31,Banker,Married,PhD,105620,17,2,6,28,B,5,5,9,0
+263,30,Charity officer,Married,Master,112223,18,4,6,22,C,5,1,4,1
+264,36,Clinical research associate,Married,Bachelor,43427,18,2,9,18,C,3,5,6,0
+265,26,Academic librarian,Married,PhD,59675,9,4,10,16,C,4,5,8,0
+266,59,"Scientist, research (physical sciences)",Single,High School,93811,4,3,5,35,B,5,3,6,1
+267,42,Clinical molecular geneticist,Married,Bachelor,117103,9,2,9,44,B,1,4,9,1
+268,30,Surgeon,Single,Bachelor,78316,3,2,1,13,C,2,5,4,0
+269,48,Clinical cytogeneticist,Married,High School,109576,3,1,9,4,A,2,1,9,1
+270,40,Careers adviser,Single,Master,47460,12,3,5,11,A,1,3,2,1
+271,25,Site engineer,Married,Master,43996,9,1,7,34,A,1,3,2,0
+272,54,Arts development officer,Single,PhD,94151,5,2,5,31,C,3,4,8,1
+273,32,Sub,Single,Master,87725,15,4,7,15,B,2,5,8,0
+274,41,"Doctor, hospital",Single,Bachelor,99928,18,4,2,27,A,3,1,9,0
+275,37,Exhibition designer,Married,High School,66155,12,2,3,29,C,2,4,6,1
+276,51,"Administrator, arts",Single,Bachelor,60075,4,3,1,1,C,3,1,2,0
+277,46,"Radiographer, diagnostic",Single,PhD,81995,13,4,8,30,B,4,1,7,0
+278,56,Clothing/textile technologist,Single,PhD,70812,14,2,7,4,A,4,5,4,0
+279,29,"Surveyor, planning and development",Married,Master,34169,18,3,2,20,B,5,1,10,1
+280,28,Fish farm manager,Married,High School,73547,8,4,7,3,A,1,5,4,1
+281,49,IT trainer,Single,High School,95363,13,3,4,47,A,3,2,6,0
+282,43,"Administrator, education",Married,PhD,91701,3,4,3,7,A,5,1,10,1
+283,58,"Development worker, international aid",Married,Bachelor,80326,8,2,7,10,A,4,3,2,0
+284,58,Minerals surveyor,Married,High School,103272,16,2,7,17,A,2,1,3,1
+285,44,"Radiographer, diagnostic",Married,Master,42931,3,4,1,20,A,4,1,2,1
+286,35,Soil scientist,Married,Master,115971,14,4,6,21,C,3,5,4,1
+287,30,"Production designer, theatre/television/film",Married,Master,53332,4,1,3,3,C,3,1,9,0
+288,51,Geochemist,Single,High School,86647,13,1,2,7,A,5,1,1,0
+289,57,General practice doctor,Single,Bachelor,34877,9,2,5,24,C,4,3,3,1
+290,55,"Production assistant, radio",Married,PhD,95409,20,1,3,13,B,5,4,4,1
+291,41,Dispensing optician,Single,PhD,115312,15,3,6,43,A,5,2,1,0
+292,64,"Designer, multimedia",Single,Bachelor,104140,19,1,5,10,B,5,1,10,0
+293,48,"Copywriter, advertising",Married,Bachelor,68595,13,4,3,12,C,4,5,9,1
+294,36,Historic buildings inspector/conservation officer,Single,Bachelor,67602,9,4,7,40,B,2,4,3,0
+295,35,Music therapist,Single,High School,58069,4,1,2,9,C,3,3,6,1
+296,56,"Psychologist, sport and exercise",Married,PhD,93066,20,2,5,40,C,3,1,2,0
+297,58,Historic buildings inspector/conservation officer,Single,Bachelor,107835,6,3,9,12,C,5,4,6,1
+298,67,Occupational hygienist,Single,Bachelor,69634,11,4,3,46,B,3,5,8,1
+299,58,"Conservation officer, historic buildings",Single,High School,63784,14,3,4,13,A,4,4,5,0
+300,67,"Teacher, special educational needs",Married,PhD,80820,4,3,10,37,C,4,2,6,0
+301,51,"Editor, commissioning",Married,High School,55089,6,4,10,26,C,1,1,6,0
+302,55,Cartographer,Married,PhD,73877,9,4,5,9,A,1,4,7,0
+303,62,Retail manager,Single,High School,43864,7,1,3,26,C,1,4,5,0
+304,22,Secondary school teacher,Single,High School,44781,12,2,9,8,A,5,5,3,1
+305,41,"Investment banker, operational",Married,PhD,118888,4,3,3,39,C,4,4,8,0
+306,33,Writer,Single,Master,90309,11,2,8,20,A,2,4,2,1
+307,26,"Psychotherapist, child",Married,Master,96751,17,1,3,33,C,4,4,10,0
+308,60,Amenity horticulturist,Single,PhD,79468,11,1,8,33,B,1,5,3,0
+309,34,Land,Single,Master,104495,3,2,7,2,C,5,3,10,1
+310,37,Special educational needs teacher,Married,PhD,69515,8,4,4,31,C,3,3,8,1
+311,33,Call centre manager,Single,Bachelor,83733,6,1,9,7,C,1,2,6,0
+312,61,Probation officer,Single,PhD,104358,9,4,9,5,B,2,2,4,1
+313,70,"Teacher, English as a foreign language",Single,Master,38005,5,2,10,45,C,2,1,10,0
+314,33,"Sound technician, broadcasting/film/video",Single,High School,92574,13,3,6,7,C,5,4,6,0
+315,47,Radiation protection practitioner,Married,Master,94042,6,3,9,20,C,1,1,6,0
+316,53,Company secretary,Married,High School,47339,11,1,4,49,C,3,5,7,1
+317,68,Diplomatic Services operational officer,Married,Master,101918,11,2,8,33,C,3,4,5,1
+318,63,Arts development officer,Single,Bachelor,37239,2,3,7,33,B,3,4,5,0
+319,25,Diplomatic Services operational officer,Married,High School,90680,14,4,10,45,A,1,2,2,0
+320,53,International aid/development worker,Married,High School,63065,6,4,3,29,B,4,4,2,0
+321,33,Teaching laboratory technician,Married,High School,69987,5,1,4,20,C,2,4,1,0
+322,18,Legal secretary,Married,High School,63337,16,3,3,47,B,1,4,9,1
+323,29,Multimedia specialist,Married,Master,44507,6,4,8,9,C,2,5,7,0
+324,46,"Accountant, chartered",Married,High School,76546,5,4,2,18,A,5,2,3,0
+325,26,Applications developer,Single,Bachelor,68323,20,3,5,6,C,1,5,4,1
+326,40,Diagnostic radiographer,Single,PhD,63701,18,1,6,24,C,2,5,3,1
+327,28,"Teacher, primary school",Married,Master,52544,8,1,5,27,C,1,4,9,0
+328,35,Office manager,Single,PhD,88289,16,1,5,4,C,1,2,7,1
+329,58,Analytical chemist,Single,Master,63195,16,3,9,27,B,2,2,1,0
+330,62,"Psychotherapist, dance movement",Single,Bachelor,42638,11,1,5,38,C,5,5,10,0
+331,52,Media planner,Single,Bachelor,57590,2,1,2,44,B,5,3,8,1
+332,54,"Surveyor, planning and development",Married,Bachelor,116105,7,2,10,22,C,3,1,7,0
+333,47,Video editor,Married,Bachelor,114539,17,1,8,38,C,2,3,9,1
+334,34,Energy manager,Single,PhD,37577,16,4,3,34,B,1,1,7,0
+335,70,Animator,Married,High School,40058,5,1,4,28,C,5,4,7,0
+336,26,Armed forces technical officer,Married,High School,116806,7,4,6,8,A,2,2,8,1
+337,32,Brewing technologist,Married,Bachelor,98773,20,2,7,50,B,2,5,9,1
+338,18,Games developer,Single,PhD,47851,13,3,5,7,C,5,2,6,1
+339,58,Rural practice surveyor,Single,Bachelor,68270,20,1,8,13,B,1,1,7,0
+340,41,Environmental education officer,Married,High School,53126,17,1,10,20,A,3,1,1,0
+341,35,Medical secretary,Married,High School,111714,3,2,2,23,A,2,1,2,0
+342,27,IT technical support officer,Married,High School,31442,1,3,5,18,B,2,4,8,0
+343,54,English as a foreign language teacher,Single,Master,47427,1,1,5,15,C,2,2,4,1
+344,52,"Horticulturist, amenity",Single,Master,54740,9,3,5,27,B,4,4,7,1
+345,66,"Development worker, community",Single,PhD,38768,13,2,4,22,C,3,2,7,1
+346,67,Museum/gallery exhibitions officer,Married,Master,102263,13,1,2,3,A,3,4,1,0
+347,34,Personal assistant,Single,Bachelor,102727,20,3,7,29,B,3,4,1,1
+348,44,"Civil engineer, contracting",Married,Master,70987,17,2,9,12,C,2,5,7,1
+349,40,Clinical biochemist,Married,Bachelor,74180,9,4,6,16,C,1,3,1,1
+350,45,"Loss adjuster, chartered",Single,PhD,49540,19,2,2,31,A,5,5,2,1
+351,27,"Scientist, forensic",Single,PhD,62208,17,3,10,19,A,3,2,1,0
+352,41,Holiday representative,Single,High School,102266,7,1,6,2,C,3,1,9,0
+353,27,Print production planner,Single,Master,32806,10,2,5,10,B,3,2,8,1
+354,42,Microbiologist,Single,PhD,117346,9,3,5,37,B,2,3,7,0
+355,36,English as a foreign language teacher,Single,High School,115833,10,4,6,33,C,3,2,2,1
+356,37,Personal assistant,Single,PhD,81211,4,4,2,41,C,4,5,7,0
+357,58,Oceanographer,Married,PhD,35986,14,2,10,12,C,2,4,3,0
+358,31,Chief Financial Officer,Single,Bachelor,35471,7,3,5,33,C,2,1,1,1
+359,25,Television camera operator,Married,Bachelor,63756,5,3,6,4,C,4,3,6,1
+360,46,"Research officer, government",Single,Master,43056,13,4,4,49,A,1,3,6,1
+361,50,"Teacher, adult education",Married,Bachelor,116789,15,2,10,4,C,1,4,1,1
+362,68,"Conservation officer, nature",Married,Master,69392,19,3,3,15,A,3,4,3,0
+363,58,"Therapist, art",Married,PhD,69851,18,1,2,32,C,3,2,9,1
+364,43,Energy manager,Married,Master,75502,4,4,4,48,C,1,4,9,0
+365,49,"Lecturer, higher education",Single,Bachelor,53475,6,3,7,11,B,2,1,10,1
+366,61,Biomedical scientist,Married,Bachelor,51840,11,4,6,25,C,3,3,9,0
+367,22,"Teacher, early years/pre",Single,PhD,36458,13,3,2,17,C,2,4,7,1
+368,43,Outdoor activities/education manager,Single,High School,118069,10,4,10,45,C,2,4,2,0
+369,27,Dietitian,Single,High School,97155,13,4,4,43,A,5,1,10,0
+370,35,Biomedical engineer,Married,Bachelor,82997,16,1,5,42,B,5,1,8,1
+371,63,Public relations officer,Married,Bachelor,116362,12,1,4,42,A,1,3,8,1
+372,27,Minerals surveyor,Single,Master,94049,17,2,9,18,C,5,4,8,0
+373,45,"Psychologist, prison and probation services",Married,PhD,54457,16,4,4,48,A,2,1,8,1
+374,54,Insurance claims handler,Married,Master,34254,9,2,3,47,B,4,1,6,1
+375,68,Equality and diversity officer,Married,High School,93413,7,2,6,25,C,3,4,2,0
+376,39,Diplomatic Services operational officer,Married,Master,110405,13,2,8,35,A,5,4,2,1
+377,59,Film/video editor,Married,PhD,112519,10,4,4,26,C,1,3,9,1
+378,41,Prison officer,Married,PhD,48675,2,3,9,30,C,3,4,2,1
+379,31,Armed forces technical officer,Married,Master,87392,14,1,9,42,B,5,1,5,1
+380,19,"Lighting technician, broadcasting/film/video",Single,PhD,81052,7,1,4,9,C,1,5,8,1
+381,21,"Pharmacist, community",Married,High School,33694,6,3,5,5,B,5,1,6,1
+382,24,Psychotherapist,Married,High School,79022,7,1,4,26,C,3,4,8,0
+383,31,Wellsite geologist,Married,Master,70424,19,3,4,15,A,5,5,9,0
+384,51,Solicitor,Married,Bachelor,105959,3,1,6,31,A,3,5,10,1
+385,27,Travel agency manager,Married,Bachelor,32364,4,4,1,34,C,5,4,7,1
+386,44,Clinical embryologist,Single,Bachelor,92125,18,2,8,25,B,5,5,9,0
+387,58,Health and safety adviser,Married,PhD,32143,14,3,2,44,B,4,2,5,1
+388,51,Barista,Married,Master,73688,14,1,8,30,B,2,3,10,1
+389,54,Network engineer,Single,High School,60794,8,2,7,3,B,5,4,10,0
+390,49,Ranger/warden,Married,PhD,38986,12,3,2,36,C,2,2,7,1
+391,21,Furniture conservator/restorer,Single,Master,95935,3,1,10,22,C,1,1,2,1
+392,57,Proofreader,Single,Bachelor,118092,3,2,2,37,B,2,5,3,0
+393,21,Bonds trader,Single,PhD,55649,11,1,9,1,C,2,3,4,1
+394,39,Financial adviser,Married,Master,98875,11,4,9,33,C,5,3,2,1
+395,32,"Teacher, primary school",Single,PhD,86626,17,1,1,24,B,5,2,2,1
+396,66,Best boy,Married,Master,53725,16,2,9,12,B,1,4,10,1
+397,63,Furniture conservator/restorer,Married,High School,40035,7,3,7,44,C,2,5,5,1
+398,45,Careers information officer,Single,Bachelor,118210,10,2,7,9,B,2,3,7,0
+399,20,Animal nutritionist,Single,High School,81868,16,4,3,9,A,2,3,6,1
+400,22,Forensic scientist,Married,Bachelor,92375,1,1,1,13,B,1,5,10,0
+401,40,Occupational therapist,Single,Bachelor,118020,16,3,3,48,C,3,3,9,0
+402,69,"Horticulturist, amenity",Married,Bachelor,64014,3,4,6,28,A,4,5,7,1
+403,27,Curator,Single,PhD,40932,11,2,6,30,A,4,2,7,1
+404,19,"Accountant, chartered certified",Married,Master,118572,5,4,10,1,A,4,1,10,0
+405,58,Hotel manager,Married,PhD,65046,13,3,9,15,C,1,5,10,0
+406,58,"Engineer, control and instrumentation",Single,PhD,47672,1,2,9,8,A,1,5,1,1
+407,28,Comptroller,Single,Master,68566,10,3,2,19,B,4,3,9,0
+408,40,"Research officer, trade union",Single,High School,117394,10,3,2,31,B,2,5,10,0
+409,35,Prison officer,Single,Bachelor,95255,19,3,8,43,C,3,3,10,0
+410,51,"Geneticist, molecular",Married,High School,69040,7,4,9,31,B,2,1,4,0
+411,69,Clinical cytogeneticist,Married,High School,44172,5,2,8,7,A,1,4,5,0
+412,34,Private music teacher,Married,Bachelor,84495,16,2,7,20,A,5,3,4,0
+413,26,Commissioning editor,Single,High School,102212,9,4,3,1,B,4,4,3,1
+414,27,Midwife,Married,High School,79423,18,2,6,17,C,2,5,9,0
+415,55,Consulting civil engineer,Single,Master,101573,9,1,4,41,B,3,5,3,1
+416,56,Film/video editor,Married,Bachelor,69978,1,3,1,42,C,4,1,10,1
+417,27,Holiday representative,Married,Bachelor,37496,15,2,7,48,B,1,1,2,0
+418,62,Secondary school teacher,Single,Bachelor,85050,9,3,7,39,C,2,5,8,1
+419,21,Petroleum engineer,Married,Master,66001,12,2,8,36,A,1,2,4,1
+420,45,Dentist,Married,Bachelor,96137,17,4,6,20,A,1,3,8,1
+421,57,Actor,Married,Bachelor,64904,3,1,8,45,A,1,5,9,0
+422,35,Proofreader,Married,Bachelor,38719,15,3,5,12,B,2,2,6,0
+423,53,Event organiser,Married,Bachelor,44917,13,2,4,44,A,4,1,2,0
+424,44,Writer,Single,PhD,114751,8,2,6,36,A,5,2,3,0
+425,39,"Production assistant, television",Single,PhD,49538,5,3,4,37,C,5,5,4,1
+426,62,Facilities manager,Married,High School,75655,3,1,3,8,B,4,1,4,0
+427,42,Adult guidance worker,Single,PhD,111127,7,3,10,15,B,5,1,6,0
+428,61,"Engineer, broadcasting (operations)",Married,Master,54023,1,2,3,45,A,2,3,8,1
+429,51,Medical physicist,Single,PhD,56174,1,1,7,22,C,2,4,10,0
+430,26,Tourist information centre manager,Married,Bachelor,75130,5,3,9,32,A,5,4,6,0
+431,22,Horticultural consultant,Single,PhD,101049,7,2,7,34,A,5,5,10,0
+432,40,"Engineer, agricultural",Single,PhD,31631,8,3,8,30,C,1,3,9,1
+433,29,Interpreter,Single,Bachelor,66518,17,1,2,5,A,2,4,1,0
+434,69,Trade union research officer,Single,Master,65237,1,1,9,4,C,3,2,5,1
+435,52,Magazine features editor,Married,PhD,36951,2,4,3,37,A,5,2,4,1
+436,48,Systems developer,Married,High School,55700,2,3,9,48,B,5,5,2,1
+437,29,Toxicologist,Single,Master,83516,15,3,6,32,A,2,4,10,1
+438,53,Health and safety adviser,Married,High School,34207,20,4,6,30,C,4,3,1,1
+439,38,Intelligence analyst,Married,PhD,68180,11,1,3,27,B,1,3,5,0
+440,30,"Engineer, mining",Single,Master,104410,13,2,5,41,B,4,1,8,1
+441,38,"Engineer, materials",Single,PhD,56040,20,1,7,41,C,2,1,5,1
+442,20,Environmental manager,Single,High School,97261,1,4,9,6,C,3,3,2,1
+443,70,"Education officer, environmental",Married,Bachelor,106950,8,1,8,31,B,5,5,1,0
+444,33,Outdoor activities/education manager,Single,Master,72526,16,2,3,21,C,4,5,2,1
+445,23,"Radiographer, therapeutic",Married,High School,93592,5,4,8,49,C,5,1,6,1
+446,40,Sports development officer,Single,Master,83072,9,4,8,39,B,3,1,10,0
+447,25,Oncologist,Single,Master,73310,5,4,10,50,B,4,2,4,1
+448,56,Health and safety adviser,Single,High School,37262,11,4,3,23,A,5,2,4,1
+449,69,Geoscientist,Married,Bachelor,52149,11,1,1,47,A,2,2,8,0
+450,58,"Nurse, learning disability",Married,High School,85828,13,2,10,20,A,5,2,3,1
+451,43,Consulting civil engineer,Married,PhD,33574,10,3,3,29,B,4,5,1,0
+452,30,Estate manager/land agent,Single,High School,86438,19,1,8,48,C,4,4,2,1
+453,19,Public affairs consultant,Married,PhD,47035,18,2,9,9,C,1,4,1,1
+454,48,Learning mentor,Single,PhD,97323,19,3,8,44,C,2,1,9,1
+455,18,Politician's assistant,Married,Master,118027,7,1,6,19,B,5,4,3,0
+456,36,Database administrator,Single,High School,54716,19,2,5,19,A,4,1,7,0
+457,57,Energy manager,Single,Master,45793,7,1,7,12,B,3,5,10,0
+458,31,Bookseller,Married,PhD,64776,16,1,2,11,A,2,5,5,0
+459,52,Metallurgist,Single,PhD,35476,19,1,1,13,C,2,2,5,1
+460,43,"Pharmacist, hospital",Married,Master,94669,9,2,10,48,A,2,1,10,0
+461,67,Cabin crew,Single,Bachelor,57062,14,4,5,25,B,4,1,3,0
+462,19,Corporate investment banker,Married,High School,94159,9,2,10,23,B,2,1,9,0
+463,43,Mental health nurse,Married,High School,46948,4,2,3,7,A,5,3,3,1
+464,63,Physiotherapist,Married,PhD,52704,17,2,6,26,A,5,3,1,1
+465,69,Homeopath,Married,PhD,32706,4,4,2,42,B,4,5,6,1
+466,65,"Investment banker, operational",Married,PhD,98459,12,3,8,36,C,3,5,6,1
+467,36,Energy manager,Married,Master,35230,6,1,6,14,A,1,4,6,1
+468,36,Building control surveyor,Single,PhD,59263,16,2,9,23,C,1,4,5,0
+469,42,"Therapist, speech and language",Single,PhD,39874,4,1,9,46,A,5,1,7,0
+470,52,Firefighter,Married,Bachelor,94504,8,2,4,38,A,1,1,3,1
+471,53,Herbalist,Married,High School,43443,11,3,7,35,A,4,3,9,1
+472,39,Trade union research officer,Single,Bachelor,104572,3,1,3,25,C,4,3,2,0
+473,50,"Engineer, site",Single,Master,56925,3,3,2,42,A,3,3,9,1
+474,58,"Nurse, adult",Single,PhD,119420,17,4,10,7,C,2,1,2,1
+475,31,Sports coach,Single,Master,71628,6,4,6,10,B,1,2,8,0
+476,34,Corporate investment banker,Married,High School,30167,3,3,5,6,C,1,3,6,1
+477,33,Sports development officer,Married,Master,113641,14,3,3,43,A,2,2,9,1
+478,29,Economist,Married,Bachelor,55531,6,1,5,25,B,3,3,1,1
+479,32,Furniture designer,Single,High School,44642,2,4,6,38,B,5,4,7,1
+480,38,Horticultural therapist,Single,Master,58340,7,4,6,26,C,4,3,8,0
+481,53,Fine artist,Married,High School,60113,18,2,3,4,A,5,3,2,1
+482,54,Race relations officer,Single,Bachelor,32959,17,4,10,48,B,3,2,2,0
+483,33,"Engineer, communications",Married,PhD,65442,17,3,4,20,C,4,2,7,1
+484,37,Quality manager,Married,Master,64454,8,1,2,38,A,1,5,9,1
+485,18,Sales promotion account executive,Single,Master,94305,5,2,3,31,C,1,5,6,1
+486,49,Senior tax professional/tax inspector,Married,Bachelor,110397,3,4,4,11,B,1,5,3,0
+487,53,Sports coach,Married,High School,58909,8,1,6,33,C,1,4,2,1
+488,47,Cabin crew,Married,High School,101665,3,4,3,34,C,4,3,6,1
+489,60,Textile designer,Married,Master,119850,18,3,6,35,B,4,2,10,1
+490,19,"Engineer, mining",Single,Bachelor,99158,18,4,4,37,A,1,4,2,0
+491,36,Health and safety inspector,Married,Bachelor,45217,9,4,1,32,C,2,2,8,1
+492,59,"Presenter, broadcasting",Married,Bachelor,61656,11,2,3,21,A,2,4,6,0
+493,46,Printmaker,Single,Master,42348,19,3,1,17,A,5,3,3,0
+494,32,Air broker,Single,PhD,67754,10,2,4,44,B,1,3,5,1
+495,53,"Surveyor, quantity",Single,Bachelor,67902,18,3,6,36,A,5,5,1,0
+496,59,Academic librarian,Single,PhD,33666,4,4,10,40,C,4,4,8,0
+497,47,"Scientist, audiological",Married,High School,44560,3,2,8,8,A,5,3,7,1
+498,47,English as a foreign language teacher,Married,Bachelor,38012,11,3,10,46,A,3,4,8,0
+499,60,Retail merchandiser,Single,PhD,34023,17,4,1,19,C,2,4,6,1
+500,44,Special educational needs teacher,Single,Master,100417,6,3,5,40,C,3,5,4,0
+501,50,"Accountant, chartered management",Married,Bachelor,98730,4,3,9,17,C,2,4,7,0
+502,61,Trading standards officer,Married,PhD,75931,10,1,8,38,B,3,3,1,1
+503,59,Event organiser,Single,PhD,109108,18,1,4,5,B,5,5,1,1
+504,60,Control and instrumentation engineer,Single,Bachelor,109821,10,1,9,14,B,5,5,4,1
+505,21,Food technologist,Single,Master,77690,3,3,4,4,C,1,2,1,0
+506,48,"Programme researcher, broadcasting/film/video",Married,PhD,113743,18,2,7,44,C,3,5,6,1
+507,48,"Engineer, materials",Married,High School,51428,2,2,10,17,A,4,1,2,1
+508,63,Public house manager,Single,Bachelor,111251,11,1,4,7,B,3,5,9,1
+509,64,Museum education officer,Single,High School,68491,15,1,5,4,A,4,4,2,1
+510,38,Physiotherapist,Single,High School,54209,5,1,6,18,C,2,2,2,1
+511,53,Graphic designer,Married,PhD,30226,2,1,6,2,B,3,3,6,1
+512,56,Games developer,Married,Bachelor,107927,19,4,1,32,A,1,1,9,1
+513,60,Charity officer,Single,PhD,87620,18,4,8,32,A,2,3,10,0
+514,67,Copy,Married,PhD,119514,12,4,7,49,B,2,4,8,1
+515,64,Gaffer,Single,High School,47485,6,1,6,8,A,3,3,1,0
+516,39,Farm manager,Married,PhD,73341,13,2,5,11,C,5,4,5,0
+517,24,Video editor,Married,PhD,52597,15,4,1,3,C,2,4,5,1
+518,69,Chartered certified accountant,Single,Bachelor,59741,17,1,10,2,A,5,1,5,0
+519,28,Systems analyst,Single,PhD,82253,9,2,7,36,B,2,2,7,0
+520,21,Animal nutritionist,Single,High School,91330,19,4,10,50,B,2,2,7,0
+521,64,Technical sales engineer,Single,Bachelor,34805,4,2,3,2,C,4,5,1,0
+522,61,Technical brewer,Single,Master,96908,4,1,1,45,C,2,4,3,0
+523,19,Media buyer,Married,PhD,104397,12,4,9,11,B,4,5,6,0
+524,39,Research scientist (maths),Single,PhD,63512,9,1,1,38,A,2,1,8,0
+525,27,Biomedical engineer,Married,Bachelor,114196,16,2,8,47,A,3,1,7,0
+526,61,"Designer, multimedia",Single,PhD,54592,5,2,6,32,C,4,3,4,0
+527,18,Estate manager/land agent,Married,Master,98207,2,1,7,5,C,3,4,10,0
+528,48,Interior and spatial designer,Married,Bachelor,103206,18,3,8,5,C,1,3,6,1
+529,22,Commercial art gallery manager,Single,High School,55165,1,4,5,15,A,5,4,4,0
+530,57,Leisure centre manager,Married,Master,44294,14,1,1,45,A,1,3,5,0
+531,64,Manufacturing systems engineer,Single,Master,101891,16,2,10,49,A,3,2,5,1
+532,19,Brewing technologist,Single,Bachelor,70168,5,2,1,20,B,4,1,4,1
+533,38,Restaurant manager,Single,High School,64787,19,1,5,15,C,1,4,2,1
+534,20,"Engineer, broadcasting (operations)",Married,PhD,84813,9,2,2,21,B,5,2,7,0
+535,29,Building surveyor,Single,Bachelor,116979,20,4,2,50,C,5,5,6,0
+536,67,Landscape architect,Single,Master,66452,9,1,7,4,A,4,4,5,0
+537,42,Haematologist,Married,Bachelor,99555,5,2,1,19,B,1,2,3,1
+538,22,Haematologist,Single,Bachelor,43826,3,4,10,35,C,2,4,9,0
+539,54,Trade union research officer,Married,Bachelor,56186,14,4,2,36,B,5,2,9,0
+540,28,Careers adviser,Single,Bachelor,57371,16,4,10,33,A,2,3,1,1
+541,57,"Conservation officer, nature",Single,Master,69123,4,1,4,48,B,2,1,6,1
+542,37,Video editor,Married,PhD,60139,2,3,4,3,C,5,3,4,1
+543,69,Fish farm manager,Married,PhD,108508,1,3,3,32,C,1,3,2,0
+544,69,Medical secretary,Married,PhD,32643,11,3,6,50,A,5,1,4,0
+545,55,Animal nutritionist,Married,High School,110032,14,2,4,2,A,5,4,7,0
+546,43,Trade union research officer,Single,Bachelor,77257,5,2,3,26,A,1,3,10,0
+547,39,"Nurse, learning disability",Married,High School,118961,16,2,8,48,A,4,3,4,1
+548,51,Training and development officer,Married,Bachelor,43312,6,2,5,15,C,3,3,4,0
+549,40,Production manager,Single,Master,105600,10,1,8,8,C,5,1,5,0
+550,32,"Radiographer, diagnostic",Married,High School,80515,8,4,5,15,A,2,3,1,1
+551,42,"Designer, jewellery",Single,PhD,74741,2,3,1,10,C,3,3,5,1
+552,69,Chartered legal executive (England and Wales),Married,Bachelor,72061,10,3,1,8,B,1,5,5,1
+553,45,Midwife,Single,Bachelor,104802,15,1,9,43,B,5,5,4,0
+554,41,TEFL teacher,Married,PhD,57183,11,2,7,32,A,2,2,6,1
+555,23,Associate Professor,Married,High School,96772,4,3,6,25,B,5,1,5,0
+556,70,Statistician,Single,PhD,57574,8,4,1,4,B,5,2,9,1
+557,28,"Nurse, mental health",Married,High School,106666,1,2,2,16,C,2,1,1,1
+558,36,"Pilot, airline",Married,Bachelor,43172,7,2,3,8,C,2,1,9,0
+559,64,Call centre manager,Single,Bachelor,68464,8,2,9,16,B,5,1,1,1
+560,60,Ceramics designer,Married,Bachelor,32584,9,3,10,46,C,2,1,8,1
+561,33,"Designer, blown glass/stained glass",Single,Bachelor,116695,9,3,2,12,C,2,4,10,1
+562,51,Pension scheme manager,Married,Master,85840,7,1,2,12,C,1,5,4,0
+563,55,"Therapist, drama",Married,Master,89483,4,4,2,30,B,4,2,2,1
+564,18,Hotel manager,Single,Bachelor,95820,20,4,7,19,B,2,2,10,0
+565,52,Ranger/warden,Married,Master,80078,5,2,7,39,B,3,5,5,1
+566,62,Government social research officer,Single,Master,41717,18,1,6,43,B,3,4,6,1
+567,38,"Engineer, aeronautical",Married,High School,102722,2,4,10,2,A,2,4,9,1
+568,53,Probation officer,Married,Master,110162,3,3,6,29,C,2,3,3,1
+569,43,Museum education officer,Married,Master,35362,18,3,5,7,B,4,4,2,1
+570,36,Archaeologist,Married,PhD,40228,8,2,6,34,B,5,2,5,1
+571,70,Cytogeneticist,Married,High School,103519,1,4,8,27,C,4,2,1,0
+572,23,Press photographer,Married,Bachelor,38140,15,3,7,35,A,2,4,1,0
+573,67,"Scientist, research (life sciences)",Married,High School,112167,10,4,5,3,A,1,5,2,1
+574,24,"Doctor, general practice",Single,High School,109539,2,2,5,23,B,4,4,1,1
+575,61,Advertising copywriter,Single,Master,73824,5,2,9,45,A,2,1,4,0
+576,48,Contracting civil engineer,Single,Bachelor,96583,6,3,5,13,A,2,4,6,1
+577,52,Dentist,Single,PhD,55744,19,4,6,3,C,3,4,3,1
+578,24,"Administrator, sports",Single,High School,55246,12,4,7,35,C,2,2,2,1
+579,39,Network engineer,Single,Master,84421,7,3,8,24,B,2,1,4,0
+580,21,IT trainer,Single,Master,57506,4,1,8,25,C,4,4,5,1
+581,36,"Psychologist, counselling",Single,Master,67006,16,2,2,45,C,1,1,8,1
+582,63,Sales executive,Single,Master,92034,2,1,1,47,C,3,3,7,0
+583,31,Chief Strategy Officer,Married,Master,105391,11,2,3,33,B,2,5,6,1
+584,32,Clinical embryologist,Married,High School,94016,14,4,7,9,B,4,1,2,0
+585,35,Multimedia programmer,Single,Bachelor,31967,12,4,9,14,B,5,4,9,1
+586,48,"Psychologist, prison and probation services",Single,Bachelor,68240,12,2,4,45,C,5,3,8,1
+587,45,Archivist,Married,High School,61158,4,3,9,24,B,4,3,10,1
+588,50,Special educational needs teacher,Married,Master,86028,13,4,7,28,C,4,4,8,1
+589,45,"Designer, television/film set",Married,PhD,101214,15,4,10,23,C,3,2,5,1
+590,60,Clinical research associate,Married,Master,76884,7,1,10,7,A,3,5,4,0
+591,20,"Surveyor, building control",Single,Master,83417,8,2,5,34,A,3,3,6,0
+592,49,"Pilot, airline",Married,Bachelor,33657,17,1,8,31,B,2,5,5,0
+593,25,Ecologist,Single,High School,106989,11,2,6,20,B,2,2,3,0
+594,57,Scientific laboratory technician,Single,PhD,64196,1,2,4,48,B,1,2,9,1
+595,35,Education administrator,Single,Master,51920,12,4,1,43,B,2,4,8,1
+596,41,Pensions consultant,Single,Bachelor,41581,1,1,5,28,A,5,4,10,0
+597,58,"Surveyor, rural practice",Married,High School,76992,13,4,10,47,B,1,5,7,1
+598,69,Art gallery manager,Single,Master,43674,14,3,9,30,B,1,1,10,1
+599,66,Biomedical engineer,Single,Bachelor,53138,19,3,4,1,C,5,3,10,1
+600,53,"Horticulturist, amenity",Single,Master,34336,19,4,3,50,C,1,1,1,0
+601,33,"Journalist, newspaper",Married,Master,30697,13,3,6,44,A,3,5,5,0
+602,53,Local government officer,Married,PhD,98024,11,4,8,22,C,1,5,6,1
+603,69,"Conservator, museum/gallery",Single,PhD,102733,11,1,6,2,A,3,1,8,0
+604,32,Television camera operator,Married,PhD,38270,19,2,8,26,A,5,3,8,1
+605,65,"Engineer, chemical",Married,PhD,33414,14,3,6,34,B,4,1,3,0
+606,29,"Engineer, manufacturing",Married,PhD,87813,2,2,10,45,C,2,3,1,1
+607,28,Chiropractor,Married,PhD,61755,16,3,6,30,B,1,1,9,1
+608,29,"Presenter, broadcasting",Married,Master,115910,1,4,2,1,C,4,1,8,1
+609,65,Education administrator,Single,High School,114998,17,4,7,42,B,4,3,2,1
+610,46,Media buyer,Married,High School,50559,15,2,7,15,C,4,3,1,1
+611,43,Hydrologist,Married,PhD,88669,2,2,3,2,C,4,4,7,1
+612,42,"Administrator, education",Married,Bachelor,64401,10,3,6,1,A,2,5,8,1
+613,60,Operations geologist,Married,Bachelor,111328,16,2,6,20,C,3,3,1,1
+614,38,"Radiographer, diagnostic",Single,High School,57497,2,3,4,31,B,4,3,3,1
+615,28,Games developer,Single,PhD,62001,13,3,9,7,A,2,3,9,1
+616,23,Paediatric nurse,Married,Bachelor,116042,9,2,9,44,C,1,4,9,1
+617,62,"Engineer, biomedical",Single,PhD,69489,12,4,2,50,A,3,5,7,0
+618,32,Corporate investment banker,Single,Master,97030,1,4,10,29,C,5,3,2,0
+619,34,Graphic designer,Married,Master,57129,2,2,8,33,C,3,5,1,0
+620,62,Naval architect,Married,Master,43691,8,3,10,14,A,5,5,5,1
+621,49,"Engineer, manufacturing",Married,Bachelor,72403,12,2,7,39,B,1,3,2,0
+622,24,Economist,Married,Bachelor,95869,17,3,5,1,B,1,5,1,0
+623,24,Police officer,Single,PhD,101388,17,3,1,34,B,4,3,8,0
+624,26,"Administrator, local government",Single,Master,38151,5,3,10,20,B,3,3,6,0
+625,23,Chartered management accountant,Single,High School,109416,4,4,9,6,C,3,3,7,1
+626,61,Media buyer,Married,Bachelor,118644,2,3,6,28,A,4,1,8,1
+627,67,Insurance risk surveyor,Single,Master,87778,11,4,1,28,C,4,1,9,1
+628,48,Electrical engineer,Single,High School,54717,16,1,3,3,A,1,5,7,0
+629,28,Estate agent,Married,Bachelor,53721,8,4,1,26,B,1,1,2,0
+630,26,Agricultural consultant,Single,PhD,51038,5,1,7,26,A,4,3,3,1
+631,36,Site engineer,Married,Bachelor,98613,9,1,10,45,C,1,5,1,0
+632,46,"Horticulturist, amenity",Single,High School,106591,6,3,10,15,A,5,3,10,1
+633,40,Air broker,Married,Bachelor,30650,19,2,7,13,B,1,1,4,0
+634,47,"Programmer, applications",Married,PhD,82911,16,3,3,48,B,2,1,4,1
+635,61,"Engineer, agricultural",Single,High School,66842,5,2,3,49,B,2,2,4,0
+636,33,"Accountant, chartered public finance",Married,Master,81335,18,1,1,3,A,3,4,1,0
+637,23,Conference centre manager,Single,Master,91338,11,3,1,34,A,1,2,9,1
+638,69,General practice doctor,Married,Master,48615,9,4,1,19,B,3,5,7,0
+639,64,Legal executive,Married,High School,87835,15,1,5,4,C,1,2,4,0
+640,64,Educational psychologist,Married,High School,63206,12,1,3,18,A,2,3,8,1
+641,20,Equities trader,Single,High School,33534,19,1,1,19,A,2,4,3,0
+642,53,Contracting civil engineer,Single,Bachelor,44839,8,4,1,44,C,3,1,7,1
+643,51,Neurosurgeon,Married,Bachelor,39149,19,1,4,19,A,3,2,4,0
+644,34,Commercial art gallery manager,Single,High School,32373,11,1,10,14,A,3,3,9,0
+645,69,Civil Service fast streamer,Single,Master,108839,15,3,2,41,A,4,4,2,1
+646,47,Health promotion specialist,Married,PhD,81776,3,3,3,43,C,1,2,4,1
+647,46,Race relations officer,Married,High School,31696,17,2,6,10,C,4,4,6,1
+648,34,"Engineer, civil (consulting)",Single,Master,81201,17,1,6,32,B,5,3,7,1
+649,24,"Social research officer, government",Single,Master,52609,8,4,1,15,A,1,3,2,1
+650,41,Analytical chemist,Single,PhD,35176,16,1,9,22,C,5,2,4,0
+651,57,"Research officer, trade union",Single,Bachelor,35820,14,4,2,17,C,3,3,6,0
+652,60,"Geneticist, molecular",Married,Master,88199,17,4,6,3,B,4,1,7,1
+653,25,Production manager,Single,PhD,100768,2,4,5,8,B,1,5,6,1
+654,58,Insurance risk surveyor,Single,PhD,93945,17,4,6,46,A,2,3,5,0
+655,47,Solicitor,Single,PhD,80168,15,1,8,23,A,5,2,10,0
+656,55,"Engineer, structural",Single,High School,104416,20,4,5,27,A,3,3,7,1
+657,67,Metallurgist,Married,High School,86561,1,4,3,13,B,4,3,10,1
+658,33,Chief Financial Officer,Single,PhD,31785,11,4,2,11,A,5,5,4,0
+659,34,"Therapist, sports",Married,Bachelor,61698,17,2,9,24,C,2,3,2,0
+660,23,"Designer, blown glass/stained glass",Single,Bachelor,46408,3,2,4,8,B,1,2,2,0
+661,46,"Engineer, mining",Single,Bachelor,69678,4,4,2,4,B,3,3,10,0
+662,46,Art therapist,Married,PhD,82896,16,3,1,41,B,1,4,1,1
+663,68,Structural engineer,Married,High School,60398,10,1,6,16,A,3,4,2,0
+664,22,Press sub,Married,Bachelor,82680,10,1,4,31,B,2,3,10,0
+665,61,"Librarian, academic",Married,Master,116153,4,2,6,39,B,5,2,2,0
+666,51,"Administrator, arts",Married,Master,65678,8,1,9,7,A,3,4,8,1
+667,23,Community pharmacist,Married,Bachelor,56165,14,3,3,41,A,2,2,5,0
+668,32,"Education officer, community",Single,PhD,110742,5,1,1,35,B,2,2,9,1
+669,27,Armed forces logistics/support/administrative officer,Single,PhD,65030,10,1,2,31,B,5,2,6,1
+670,47,Advertising copywriter,Single,PhD,88019,1,2,10,37,B,4,4,6,1
+671,30,Horticultural therapist,Married,High School,111158,1,1,1,16,A,5,2,9,1
+672,51,"Nurse, mental health",Married,Bachelor,68631,2,2,3,28,B,4,4,7,1
+673,46,Theatre manager,Married,Master,68817,8,3,9,20,C,2,3,8,1
+674,48,"Administrator, arts",Married,Master,96830,4,1,1,31,A,3,5,10,0
+675,19,Web designer,Single,High School,47201,2,4,9,25,A,1,2,7,0
+676,58,Geographical information systems officer,Single,Bachelor,110086,12,4,6,29,A,1,5,4,0
+677,49,"Engineer, land",Single,Bachelor,84666,2,1,1,37,B,1,5,4,0
+678,61,Tourism officer,Married,Bachelor,39088,3,1,9,48,C,1,2,4,1
+679,21,Printmaker,Married,High School,32505,1,2,6,29,B,4,3,7,0
+680,50,"Engineer, materials",Single,PhD,92648,16,1,3,45,A,1,3,1,0
+681,18,Technical author,Married,Master,114156,7,4,7,15,A,5,1,8,0
+682,58,Diplomatic Services operational officer,Married,Bachelor,110076,13,4,9,8,B,1,5,1,0
+683,46,Immigration officer,Married,High School,112341,11,2,10,26,C,3,1,10,0
+684,22,Actuary,Single,Bachelor,108378,17,4,8,43,B,5,5,10,0
+685,69,Psychotherapist,Married,PhD,46823,3,3,6,38,A,1,3,8,0
+686,67,Radio broadcast assistant,Married,High School,74815,18,3,1,35,A,1,5,5,1
+687,70,Quarry manager,Married,Bachelor,64437,13,2,7,45,A,2,1,2,1
+688,56,Hydrogeologist,Single,Bachelor,85264,13,2,1,45,B,4,1,8,1
+689,55,"Nurse, mental health",Single,Bachelor,112052,4,4,5,21,C,4,4,4,1
+690,66,English as a second language teacher,Married,Bachelor,99277,19,4,4,4,C,2,4,1,0
+691,62,Photographer,Married,Master,73519,6,4,6,46,C,5,1,2,0
+692,27,Social researcher,Single,Master,51545,20,3,5,18,B,5,2,9,1
+693,66,Statistician,Married,PhD,48506,16,4,7,43,C,3,1,4,1
+694,52,Adult guidance worker,Single,Bachelor,101112,2,4,2,29,C,1,4,8,1
+695,60,Equities trader,Single,PhD,108307,10,3,4,7,B,1,4,5,0
+696,44,Claims inspector/assessor,Married,Master,53701,2,4,4,4,A,4,1,7,0
+697,28,Acupuncturist,Single,High School,66052,4,4,5,17,B,1,2,1,1
+698,53,Building control surveyor,Single,Bachelor,58760,6,2,5,26,C,3,5,7,0
+699,68,Aid worker,Single,Bachelor,103210,20,4,6,27,A,4,1,10,1
+700,23,Dietitian,Single,High School,90248,11,1,1,46,C,5,2,5,0
+701,25,"Accountant, chartered",Married,PhD,82671,17,2,8,11,C,1,1,7,0
+702,31,Press sub,Single,Master,78879,8,2,5,31,C,3,4,6,0
+703,38,Claims inspector/assessor,Single,PhD,64753,1,3,5,28,C,3,3,10,1
+704,45,Housing manager/officer,Single,Master,117494,4,4,3,17,C,5,4,1,0
+705,63,"Engineer, manufacturing systems",Single,Master,86636,16,1,9,22,C,5,1,5,0
+706,25,Charity fundraiser,Single,Bachelor,37026,4,3,5,22,B,5,2,5,0
+707,64,Financial risk analyst,Married,High School,73587,10,1,5,6,B,2,5,1,0
+708,43,Recruitment consultant,Single,High School,31513,7,3,9,29,A,2,2,8,1
+709,59,"Teacher, music",Single,Bachelor,114336,16,3,2,6,C,3,4,7,1
+710,23,"Engineer, communications",Married,Master,80614,10,4,6,19,B,1,3,3,1
+711,32,Ophthalmologist,Married,High School,75997,8,4,6,46,C,1,3,9,0
+712,45,Tax adviser,Single,High School,90407,8,3,7,13,C,4,2,10,1
+713,50,Psychiatric nurse,Single,High School,38866,19,2,1,4,A,4,1,4,1
+714,53,"Psychotherapist, dance movement",Married,Bachelor,50173,2,4,7,24,C,5,4,7,1
+715,56,Patent attorney,Single,PhD,35663,8,4,9,13,B,4,1,3,1
+716,20,"Sound technician, broadcasting/film/video",Single,PhD,104127,6,1,6,25,C,1,2,4,1
+717,33,"Engineer, water",Single,PhD,58310,9,3,5,19,B,5,3,10,1
+718,47,Local government officer,Single,Master,35828,13,3,2,43,C,3,2,1,0
+719,47,Child psychotherapist,Married,High School,84074,8,4,4,15,B,4,2,7,0
+720,53,Art therapist,Single,High School,81984,3,3,9,8,A,4,5,2,1
+721,32,Television production assistant,Single,Bachelor,71109,9,3,1,27,B,2,2,1,1
+722,58,Archivist,Married,High School,60369,12,4,8,46,B,5,5,2,1
+723,27,"Education officer, environmental",Single,Bachelor,112865,15,4,7,35,A,3,4,4,0
+724,69,Audiological scientist,Married,High School,60010,18,2,3,11,C,5,3,3,0
+725,35,"Scientist, physiological",Single,PhD,98368,11,2,10,36,B,1,3,10,0
+726,46,"Doctor, general practice",Single,High School,71854,6,2,4,26,B,1,2,4,0
+727,62,Hydrogeologist,Married,Master,48593,2,1,6,40,A,2,4,2,1
+728,27,Commercial art gallery manager,Married,Bachelor,106609,4,3,6,30,A,5,1,2,0
+729,58,Broadcast journalist,Married,PhD,86543,5,3,4,14,B,1,4,9,0
+730,61,"Engineer, manufacturing systems",Married,Master,100358,9,2,2,34,A,2,4,8,1
+731,61,Research scientist (life sciences),Married,High School,77761,17,2,6,2,C,5,1,2,1
+732,27,Diplomatic Services operational officer,Single,High School,70667,15,3,8,3,B,3,2,3,1
+733,52,Heritage manager,Married,Bachelor,76039,4,4,10,34,B,3,1,2,0
+734,51,Financial risk analyst,Single,PhD,54870,16,1,4,37,C,4,5,4,1
+735,53,"Teacher, special educational needs",Married,Master,43815,3,1,4,27,A,4,5,4,1
+736,23,Chartered legal executive (England and Wales),Single,PhD,50896,9,2,10,42,A,5,5,1,0
+737,43,"Surveyor, quantity",Married,Master,109459,12,2,1,45,A,3,5,8,1
+738,52,Pharmacologist,Married,High School,42889,18,2,6,13,B,1,4,6,1
+739,41,"Pilot, airline",Married,Master,100716,13,1,4,3,C,5,1,2,1
+740,67,Operational investment banker,Single,Bachelor,51986,9,3,3,6,A,1,5,3,1
+741,52,"Engineer, chemical",Married,High School,109741,3,2,9,8,A,1,3,5,1
+742,65,Corporate investment banker,Single,High School,85506,13,2,2,2,A,3,5,8,0
+743,69,Chiropodist,Single,PhD,38415,6,4,8,19,C,5,5,1,0
+744,37,"Designer, furniture",Married,Bachelor,63928,14,3,1,7,B,5,1,9,1
+745,55,Tax inspector,Single,High School,33101,4,4,4,14,A,2,3,1,1
+746,19,Chief Financial Officer,Single,High School,61606,13,4,8,17,A,3,4,5,1
+747,42,Chartered management accountant,Married,PhD,112726,15,3,6,6,A,1,4,3,1
+748,23,Health and safety inspector,Single,Master,83162,6,3,3,11,A,4,2,2,1
+749,34,Homeopath,Married,Bachelor,91252,3,3,9,33,A,2,1,5,0
+750,24,"Administrator, arts",Married,Master,79064,2,4,9,1,B,5,3,7,1
+751,34,"Administrator, sports",Married,High School,67660,11,1,3,4,C,1,5,5,0
+752,20,Gaffer,Single,PhD,58848,11,3,2,31,C,4,2,7,1
+753,33,Television/film/video producer,Single,Master,94750,7,3,8,13,C,1,5,6,1
+754,35,"Designer, furniture",Single,Bachelor,54527,18,3,1,41,A,1,5,7,1
+755,52,Product designer,Married,Master,81664,18,3,9,38,B,3,2,5,0
+756,24,Interior and spatial designer,Single,Bachelor,104909,4,3,10,43,C,5,1,8,1
+757,35,Clinical biochemist,Single,Master,76565,4,3,6,4,A,4,4,1,0
+758,53,"Designer, ceramics/pottery",Married,High School,30289,15,2,9,10,A,3,3,2,1
+759,65,Health and safety adviser,Single,High School,107157,8,1,2,34,A,5,1,9,1
+760,60,Passenger transport manager,Single,Bachelor,73413,3,4,4,29,A,2,3,10,0
+761,48,"Therapist, horticultural",Single,Master,116789,6,2,3,7,C,1,3,10,0
+762,61,Social researcher,Single,Bachelor,55299,11,3,4,46,B,3,5,8,1
+763,25,"Geologist, engineering",Married,Bachelor,117105,13,3,1,13,B,5,2,1,1
+764,46,"Engineer, energy",Single,PhD,41719,7,3,4,24,C,2,2,4,1
+765,19,Environmental health practitioner,Married,High School,69793,9,4,2,45,A,3,3,10,0
+766,35,"Nurse, mental health",Married,Master,38396,4,2,3,48,C,1,5,3,0
+767,26,Secondary school teacher,Married,High School,32373,16,4,8,5,C,5,1,4,1
+768,56,Secondary school teacher,Married,Master,43974,10,2,8,34,A,1,3,5,0
+769,59,Drilling engineer,Married,Bachelor,100926,2,3,8,3,C,5,1,2,1
+770,60,"Editor, film/video",Married,Master,34604,4,2,5,46,B,1,5,2,1
+771,57,Sports administrator,Married,Bachelor,88886,1,4,10,27,B,3,5,2,1
+772,36,"Accountant, chartered certified",Married,High School,49675,17,2,9,18,A,1,1,7,0
+773,59,Clothing/textile technologist,Single,High School,59413,1,1,3,5,A,1,2,2,0
+774,69,"Pilot, airline",Married,High School,117612,7,1,8,19,B,3,2,4,0
+775,22,Race relations officer,Married,PhD,83484,12,1,7,31,A,2,1,10,0
+776,62,Politician's assistant,Married,PhD,62046,8,2,10,12,C,4,1,10,1
+777,55,"Administrator, sports",Single,High School,86301,10,3,5,50,C,2,2,10,0
+778,69,Heritage manager,Single,High School,57724,4,1,2,6,A,1,2,4,1
+779,40,"Geologist, engineering",Married,Master,102167,19,4,7,21,C,5,4,7,0
+780,51,Astronomer,Single,Master,43173,1,2,4,42,A,5,4,7,0
+781,57,Chartered public finance accountant,Married,PhD,89843,12,3,2,45,A,3,2,6,0
+782,23,Mental health nurse,Married,High School,77686,3,2,5,3,A,2,4,9,1
+783,48,Town planner,Married,Bachelor,31950,15,1,7,22,C,5,3,8,0
+784,34,Chartered accountant,Single,PhD,60412,18,4,4,47,B,4,3,5,0
+785,24,Statistician,Single,PhD,101006,7,3,1,42,A,3,2,5,1
+786,62,Biomedical engineer,Married,Bachelor,96015,15,2,3,22,C,5,4,10,1
+787,41,"Copywriter, advertising",Single,Master,30360,19,2,7,50,A,4,2,7,1
+788,32,"Conservation officer, historic buildings",Married,Master,61921,2,4,7,33,C,4,1,5,1
+789,54,Adult guidance worker,Single,PhD,39668,6,1,4,1,C,1,2,9,1
+790,54,Tourism officer,Married,High School,73270,13,1,9,9,A,4,4,3,1
+791,36,Museum/gallery conservator,Married,PhD,111215,17,3,6,38,A,2,5,6,0
+792,52,Administrator,Married,PhD,94346,2,3,10,25,A,5,2,2,1
+793,45,Patent attorney,Single,PhD,72118,5,2,8,19,A,2,5,1,0
+794,39,Chief Executive Officer,Married,High School,71346,5,4,1,9,C,3,1,10,1
+795,52,Chartered public finance accountant,Married,Master,89687,11,2,3,32,A,3,4,7,0
+796,54,"Engineer, building services",Single,Bachelor,116328,18,2,5,16,B,4,2,6,0
+797,66,English as a second language teacher,Single,PhD,119067,3,2,10,11,B,3,2,10,0
+798,59,English as a second language teacher,Married,High School,92932,4,1,9,22,A,1,2,8,1
+799,22,"Programmer, applications",Married,PhD,56814,8,4,4,42,A,4,4,6,1
+800,34,"Scientist, research (maths)",Single,Master,60331,10,1,5,30,C,3,4,6,1
+801,64,"Lecturer, further education",Single,PhD,110428,8,4,8,20,C,2,3,5,1
+802,70,Orthoptist,Married,PhD,50252,18,2,1,29,A,3,5,2,0
+803,36,"Engineer, aeronautical",Married,PhD,70642,13,4,8,40,B,4,5,4,1
+804,35,"Sound technician, broadcasting/film/video",Single,Bachelor,80517,6,4,9,32,B,5,4,10,1
+805,21,"Surveyor, mining",Single,High School,44996,19,4,9,4,B,3,1,2,1
+806,25,Chief Financial Officer,Married,Bachelor,104101,7,4,2,29,C,5,4,10,0
+807,34,"Engineer, manufacturing systems",Married,PhD,98056,14,1,9,44,A,4,3,5,1
+808,56,Acupuncturist,Single,High School,91290,4,3,4,22,A,4,4,4,1
+809,36,Equality and diversity officer,Married,Bachelor,102046,20,2,7,40,C,3,4,2,1
+810,23,Government social research officer,Single,Bachelor,98221,15,3,7,45,C,5,4,4,1
+811,50,"Geneticist, molecular",Single,PhD,44033,3,3,1,44,B,5,1,5,1
+812,64,Child psychotherapist,Married,High School,39517,6,4,5,1,C,3,4,8,1
+813,24,Oceanographer,Single,PhD,72085,2,1,1,1,C,4,3,3,1
+814,29,"Development worker, international aid",Single,High School,36066,6,3,7,50,B,4,2,7,0
+815,42,Contractor,Married,Master,101388,1,2,7,19,B,5,2,5,0
+816,59,Television/film/video producer,Single,High School,76501,6,3,5,5,C,4,2,3,1
+817,39,Animal nutritionist,Married,Bachelor,44663,1,3,3,38,C,2,3,7,0
+818,37,"Engineer, structural",Single,High School,87068,3,2,3,11,C,4,2,10,1
+819,70,"Engineer, maintenance",Single,Master,55683,20,1,2,3,B,2,3,9,0
+820,28,Contracting civil engineer,Single,PhD,57442,7,4,3,29,A,1,2,2,1
+821,57,Marine scientist,Married,Master,54833,14,1,2,28,A,3,5,4,1
+822,27,Data scientist,Single,Bachelor,33668,19,1,10,5,C,1,4,10,1
+823,38,Airline pilot,Married,Bachelor,83473,3,2,9,9,B,4,5,2,1
+824,39,Toxicologist,Single,Bachelor,43752,11,3,4,6,B,3,4,4,0
+825,64,Chief of Staff,Married,Master,93010,2,4,4,26,C,1,1,3,1
+826,23,"Administrator, education",Single,Master,31982,13,2,9,40,B,1,1,4,0
+827,69,Radio broadcast assistant,Single,Master,86518,17,1,8,34,A,3,1,7,0
+828,43,Veterinary surgeon,Single,Bachelor,111388,1,2,7,18,B,1,5,3,1
+829,62,Microbiologist,Single,Master,92078,17,1,5,5,A,3,3,7,0
+830,33,"Social research officer, government",Married,PhD,113683,18,1,1,3,C,2,2,6,1
+831,58,"Geneticist, molecular",Married,PhD,33639,7,1,3,22,B,2,2,9,0
+832,38,Data scientist,Single,High School,70595,2,2,8,20,A,3,5,10,1
+833,31,"Designer, interior/spatial",Single,Master,79039,16,1,2,1,C,2,2,6,0
+834,29,Health promotion specialist,Single,Master,66177,13,1,4,38,C,5,2,7,0
+835,54,"Conservation officer, nature",Single,High School,87183,4,3,3,11,A,3,4,7,1
+836,47,"Horticulturist, amenity",Married,Bachelor,105852,5,4,5,39,C,4,4,7,0
+837,40,Aeronautical engineer,Married,High School,64505,7,4,2,34,B,5,1,7,0
+838,38,"Engineer, biomedical",Single,High School,113685,4,1,4,19,C,1,1,5,1
+839,53,Community arts worker,Single,Bachelor,70904,17,4,7,6,B,1,2,8,1
+840,45,"Scientist, product/process development",Married,Master,96577,3,4,8,20,A,2,2,8,1
+841,23,Clinical embryologist,Married,PhD,46053,15,3,3,29,B,5,3,9,1
+842,27,Fisheries officer,Married,PhD,46977,7,2,10,47,C,5,5,6,0
+843,18,"Development worker, community",Single,Master,97819,2,4,5,44,B,4,2,5,1
+844,65,Naval architect,Married,Master,34116,9,4,5,48,B,1,1,4,1
+845,44,Social worker,Single,Bachelor,69200,3,1,10,16,C,5,3,3,1
+846,44,"Administrator, charities/voluntary organisations",Single,PhD,56931,12,2,5,21,B,3,5,10,1
+847,47,Armed forces technical officer,Married,PhD,106140,20,3,6,37,B,1,1,5,0
+848,65,"Editor, magazine features",Single,Master,61378,8,4,9,3,B,2,3,6,0
+849,33,Land,Married,High School,74782,5,1,8,27,A,3,2,5,0
+850,25,Higher education lecturer,Married,High School,38514,6,4,7,28,C,4,4,6,1
+851,37,Contractor,Single,Bachelor,99372,2,4,2,49,A,3,4,7,0
+852,36,Air traffic controller,Married,Bachelor,72742,10,1,6,29,C,4,3,8,0
+853,22,Technical brewer,Married,Bachelor,30483,14,1,7,50,A,2,3,6,1
+854,58,Information officer,Married,High School,96498,18,4,10,37,A,5,2,3,0
+855,58,Trading standards officer,Married,Master,66172,18,2,8,46,C,5,1,3,0
+856,34,Early years teacher,Married,High School,91061,18,3,2,47,C,1,3,4,1
+857,50,Cabin crew,Single,High School,100031,2,2,8,43,B,1,5,10,0
+858,61,"Engineer, maintenance",Single,High School,75802,19,1,4,10,B,1,5,5,1
+859,43,"Engineer, drilling",Married,PhD,87366,12,2,5,31,A,5,2,6,0
+860,39,Copy,Married,PhD,102465,16,1,10,17,B,2,3,5,0
+861,62,Trading standards officer,Married,Master,56384,12,2,7,14,A,2,2,2,1
+862,63,Solicitor,Single,Master,61705,8,3,2,17,C,1,3,10,0
+863,28,"Scientist, biomedical",Single,High School,77983,5,3,10,35,C,1,5,10,1
+864,60,"Development worker, international aid",Single,Bachelor,71918,14,3,1,43,C,5,4,10,1
+865,39,Jewellery designer,Married,Master,38550,6,4,3,27,B,4,3,4,1
+866,50,"Scientist, research (medical)",Single,Master,86230,9,2,5,31,C,3,3,4,1
+867,58,Museum/gallery conservator,Single,High School,61900,5,1,8,34,A,2,1,7,0
+868,57,"Designer, graphic",Married,Master,116398,18,1,10,29,C,4,1,9,0
+869,35,Control and instrumentation engineer,Single,Bachelor,64477,8,4,7,46,B,4,2,4,1
+870,39,Fitness centre manager,Single,Bachelor,94939,4,3,10,50,A,2,4,9,0
+871,63,Records manager,Single,PhD,116535,19,2,9,4,B,5,5,3,0
+872,49,Training and development officer,Married,High School,38539,20,4,4,22,B,5,1,9,0
+873,42,Teaching laboratory technician,Single,Bachelor,90065,9,4,9,20,C,1,5,3,0
+874,44,Chartered accountant,Single,Bachelor,84315,19,3,3,12,C,2,3,3,1
+875,58,Naval architect,Single,PhD,43310,7,1,9,43,B,4,4,7,0
+876,42,"Engineer, civil (consulting)",Single,Bachelor,91047,3,2,5,21,B,1,4,1,1
+877,51,Arboriculturist,Married,High School,33123,19,3,2,50,A,3,3,9,0
+878,52,Occupational psychologist,Single,Bachelor,76719,18,3,2,14,A,2,3,4,0
+879,59,Estate manager/land agent,Married,High School,41558,2,3,9,8,A,1,2,1,1
+880,36,Video editor,Married,Bachelor,31660,9,2,3,50,B,2,2,2,1
+881,39,Gaffer,Single,PhD,43018,11,3,7,27,C,3,3,5,1
+882,35,Geoscientist,Single,High School,59131,5,3,5,33,A,4,1,5,1
+883,40,Corporate investment banker,Married,Bachelor,75813,20,4,10,36,A,4,1,2,0
+884,62,Fisheries officer,Single,Bachelor,32626,3,2,10,14,C,2,1,2,1
+885,60,"Designer, jewellery",Single,High School,35576,3,2,5,26,A,1,2,1,1
+886,53,Medical sales representative,Single,Bachelor,47952,7,2,1,10,C,1,5,1,0
+887,29,"Engineer, biomedical",Single,Bachelor,71463,15,4,8,28,B,5,3,3,0
+888,49,"Teacher, adult education",Married,Bachelor,62438,8,2,6,10,A,2,2,3,1
+889,45,International aid/development worker,Single,Master,69957,7,1,3,43,A,2,1,9,1
+890,27,"Engineer, biomedical",Single,Bachelor,96970,9,2,9,3,C,3,3,9,1
+891,60,Chiropodist,Married,Master,106728,10,2,4,30,A,5,5,4,1
+892,54,"Embryologist, clinical",Single,PhD,51135,19,1,4,32,A,4,5,10,1
+893,26,Illustrator,Married,High School,104763,4,1,10,23,C,1,4,7,1
+894,18,Armed forces operational officer,Married,PhD,34333,12,3,3,25,A,5,5,10,1
+895,44,Ophthalmologist,Single,Master,72290,9,3,5,29,A,3,1,9,0
+896,24,"Scientist, biomedical",Married,PhD,40212,6,4,6,24,A,4,1,8,1
+897,62,"Administrator, sports",Married,High School,110924,8,2,3,11,A,4,1,3,1
+898,31,"Investment banker, corporate",Married,High School,89504,13,2,7,31,C,1,3,3,0
+899,46,Farm manager,Single,PhD,109338,18,2,8,48,C,3,4,4,0
+900,52,IT consultant,Single,Bachelor,93928,18,1,9,15,A,1,3,3,1
+901,35,"Surveyor, building",Single,Bachelor,31608,20,3,10,3,C,1,3,5,1
+902,22,Clinical molecular geneticist,Single,PhD,84610,19,2,7,6,C,4,4,2,1
+903,67,Animator,Single,PhD,50160,6,2,5,17,A,4,5,1,1
+904,70,Operations geologist,Single,PhD,53163,16,4,7,25,A,1,2,7,0
+905,66,"Social research officer, government",Married,Bachelor,103472,15,1,9,4,B,4,2,2,1
+906,53,"Nurse, mental health",Single,Master,57653,7,1,9,21,C,2,5,9,1
+907,51,Heritage manager,Single,Master,102360,15,3,9,18,A,4,2,9,0
+908,19,Intelligence analyst,Single,PhD,105211,5,3,4,38,A,5,1,10,0
+909,23,Film/video editor,Married,Master,100178,18,3,3,30,C,5,3,9,1
+910,52,Barrister's clerk,Single,Bachelor,78026,7,3,10,6,B,1,4,10,1
+911,19,Fitness centre manager,Single,Bachelor,85237,13,3,6,3,B,2,2,7,0
+912,51,Clothing/textile technologist,Married,Master,34045,11,3,3,38,A,4,4,5,1
+913,60,Psychotherapist,Single,Master,52407,20,3,6,40,A,1,5,3,0
+914,45,Actuary,Married,Master,56539,9,2,9,42,B,3,4,6,0
+915,25,Television production assistant,Single,Master,103937,16,1,8,13,C,4,2,1,1
+916,69,Lawyer,Married,High School,116824,4,1,5,33,C,5,4,5,0
+917,48,Acupuncturist,Married,PhD,79209,20,3,2,40,A,5,5,3,0
+918,25,Fast food restaurant manager,Married,Bachelor,100883,15,1,7,45,B,5,3,6,0
+919,53,"Administrator, arts",Single,PhD,64714,20,3,1,19,C,5,3,10,1
+920,63,Travel agency manager,Single,Master,79081,11,1,2,11,A,4,1,7,1
+921,44,"Investment banker, operational",Single,Master,88045,15,1,8,29,C,3,2,7,0
+922,27,Health physicist,Married,High School,67964,8,1,3,2,A,3,4,8,1
+923,40,"Doctor, hospital",Single,Master,63246,18,2,9,17,B,1,2,9,0
+924,20,Structural engineer,Single,Master,66665,6,4,3,5,A,2,4,4,0
+925,56,"Conservation officer, nature",Married,Bachelor,63792,4,1,4,34,A,1,2,3,1
+926,44,Medical physicist,Single,High School,44015,2,2,3,38,A,3,3,10,1
+927,43,Chartered accountant,Married,Master,69020,14,2,7,50,A,2,4,4,1
+928,50,"Librarian, academic",Single,Master,71047,12,3,5,9,A,4,3,8,0
+929,25,Ceramics designer,Single,High School,86682,10,4,10,40,B,4,3,3,0
+930,25,"Sales professional, IT",Single,PhD,61512,14,4,4,33,A,4,1,6,0
+931,24,Learning mentor,Married,PhD,56625,6,2,7,3,C,3,4,8,1
+932,31,Historic buildings inspector/conservation officer,Single,PhD,72186,11,1,4,14,B,3,3,8,1
+933,30,"Scientist, product/process development",Married,Master,37080,10,2,8,12,A,2,1,8,0
+934,58,"Buyer, industrial",Single,Bachelor,106054,12,3,4,37,A,1,3,8,1
+935,45,"Surveyor, land/geomatics",Married,PhD,86754,20,3,6,28,B,1,3,1,1
+936,52,Research scientist (medical),Married,Bachelor,82864,13,2,8,35,A,5,1,6,1
+937,33,Environmental consultant,Single,PhD,33433,17,2,5,27,B,2,3,8,1
+938,46,"Designer, jewellery",Single,PhD,83432,4,4,5,11,A,1,3,6,0
+939,35,Applications developer,Married,Bachelor,79991,1,1,6,14,A,4,3,6,1
+940,59,"Development worker, community",Single,PhD,94664,15,1,6,25,B,3,3,5,0
+941,63,Theatre manager,Married,High School,100996,19,1,2,29,B,3,4,4,0
+942,70,Purchasing manager,Married,Bachelor,94129,6,2,2,13,B,2,3,7,0
+943,38,"Surveyor, rural practice",Married,Bachelor,112934,14,1,2,29,A,5,3,3,1
+944,29,Oceanographer,Single,Bachelor,117257,16,3,4,13,A,3,3,4,1
+945,31,"Development worker, community",Single,Bachelor,32906,13,4,3,46,C,2,1,4,0
+946,39,Automotive engineer,Married,PhD,117336,11,2,5,9,A,4,4,2,1
+947,28,Local government officer,Single,PhD,30436,2,3,6,46,C,1,1,8,0
+948,46,Adult nurse,Single,High School,62320,1,2,6,22,B,4,5,9,1
+949,52,Archaeologist,Single,PhD,113416,4,2,8,6,C,3,2,2,0
+950,27,Public affairs consultant,Married,Bachelor,119716,12,3,5,47,B,5,1,3,1
+951,47,"Engineer, site",Single,Master,58597,4,4,10,16,C,5,5,7,1
+952,61,"Development worker, community",Married,High School,35635,17,4,1,21,A,3,3,3,1
+953,30,Industrial buyer,Single,Master,97506,19,2,9,16,B,5,5,3,1
+954,66,Forensic psychologist,Married,PhD,54484,6,2,4,24,A,4,2,7,1
+955,26,"Engineer, production",Married,Master,73988,2,2,4,3,B,2,2,2,0
+956,49,Audiological scientist,Single,PhD,46855,16,4,9,21,B,4,5,1,0
+957,25,Race relations officer,Married,High School,45057,7,2,7,5,B,5,2,4,1
+958,22,Dance movement psychotherapist,Single,High School,114720,1,4,3,28,A,2,4,9,0
+959,39,"Development worker, international aid",Married,Master,97364,18,3,2,34,B,4,4,10,1
+960,45,"Nurse, mental health",Single,Master,87787,4,3,8,30,B,1,4,5,0
+961,18,Insurance underwriter,Married,Bachelor,83973,18,2,8,48,C,5,5,3,0
+962,41,Press photographer,Married,Master,95014,19,2,1,44,C,3,3,1,1
+963,60,"Engineer, production",Married,Master,69262,3,3,2,7,C,4,2,1,1
+964,38,Environmental health practitioner,Single,PhD,63364,19,1,1,37,A,5,3,10,1
+965,49,Print production planner,Single,High School,93697,9,3,7,13,A,5,2,5,0
+966,61,General practice doctor,Married,PhD,102997,4,1,9,34,A,4,2,9,0
+967,52,Physiotherapist,Single,Bachelor,107043,15,3,2,45,A,5,5,4,0
+968,47,Licensed conveyancer,Married,Bachelor,58988,7,1,8,38,C,2,1,4,0
+969,43,Art therapist,Single,High School,35733,3,3,7,27,C,2,3,6,1
+970,36,"Engineer, materials",Single,PhD,118384,7,1,3,6,C,2,3,2,1
+971,65,"Runner, broadcasting/film/video",Single,High School,72531,17,3,5,29,A,3,5,9,0
+972,42,"Administrator, arts",Married,PhD,47430,4,2,1,40,A,1,3,3,0
+973,48,"Engineer, electrical",Single,PhD,73918,11,4,3,28,C,1,1,2,0
+974,37,Investment analyst,Married,PhD,43723,17,1,6,27,C,4,5,4,0
+975,44,Oncologist,Single,Bachelor,47827,18,1,7,23,A,1,3,10,1
+976,34,Town planner,Married,Master,61112,3,3,2,6,C,1,3,6,1
+977,24,"Presenter, broadcasting",Married,Master,110086,15,4,2,31,C,2,4,2,1
+978,57,Acupuncturist,Married,Bachelor,33589,5,3,9,9,A,5,4,3,1
+979,67,Podiatrist,Single,PhD,46263,12,1,7,49,A,1,3,3,0
+980,32,Tourism officer,Married,PhD,102873,4,4,10,42,A,1,1,4,1
+981,39,Warehouse manager,Single,High School,65237,11,1,6,48,B,1,3,7,0
+982,54,"Teacher, special educational needs",Single,Bachelor,117221,20,1,7,26,A,3,4,8,1
+983,26,Secretary/administrator,Single,Master,119291,3,1,6,18,C,2,3,9,1
+984,56,Fine artist,Single,PhD,111664,18,1,3,38,C,3,2,4,1
+985,22,"Surveyor, planning and development",Married,Master,115600,6,3,7,32,B,3,1,7,0
+986,61,"Programmer, applications",Single,Bachelor,69917,7,4,1,37,B,1,1,4,1
+987,38,Immigration officer,Single,Bachelor,76154,18,4,6,40,C,1,5,3,0
+988,19,Systems analyst,Married,High School,41905,12,4,10,8,C,1,1,9,1
+989,59,Leisure centre manager,Single,Master,33504,9,1,3,6,B,3,1,6,1
+990,64,"Production assistant, television",Single,Bachelor,108423,16,4,4,15,A,4,4,8,0
+991,37,Media buyer,Single,Bachelor,32449,9,2,8,31,B,4,4,1,1
+992,45,"Designer, blown glass/stained glass",Single,High School,54467,5,3,5,22,A,5,5,6,0
+993,35,Arts development officer,Married,Bachelor,54979,20,3,1,23,A,5,4,2,1
+994,34,Engineering geologist,Single,Master,40001,7,1,9,14,A,3,3,1,1
+995,25,Purchasing manager,Single,High School,114456,5,4,8,7,A,3,4,2,0
+996,24,Data scientist,Single,Bachelor,104204,7,3,8,31,B,3,2,1,1
+997,64,Clinical cytogeneticist,Married,High School,116083,18,1,1,10,A,3,1,8,1
+998,21,Analytical chemist,Single,Master,56872,12,3,3,11,B,3,3,10,0
+999,39,"Engineer, maintenance",Single,Master,77754,19,4,3,21,B,2,3,7,0
+1000,30,Race relations officer,Married,Master,84317,11,2,10,50,B,4,3,7,1
